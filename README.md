@@ -37,4 +37,4 @@ The goal of this project is to create a simulated world in gazebo and write a pl
 7. cd into world directory and run `gazebo Myworld`.
 
 ## Output 
-!(https://user-images.githubusercontent.com/85461865/123188661-691c0d00-d46a-11eb-954c-9758b737f4bd.jpg)
+![Gazebo Simulation showing world file](https://user-images.githubusercontent.com/85461865/123188661-691c0d00-d46a-11eb-954c-9758b737f4bd.jpg)
