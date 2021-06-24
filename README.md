@@ -38,3 +38,6 @@ The goal of this project is to create a simulated world in gazebo and write a pl
 
 ## Output 
 ![Gazebo Simulation showing world file](https://user-images.githubusercontent.com/85461865/123188661-691c0d00-d46a-11eb-954c-9758b737f4bd.jpg)
+
+You will get a welcome message with my name. Inorder to change that, cd into the script directory and run `gedit hello.cpp`.
+Change the name and follow the build instructions again.
