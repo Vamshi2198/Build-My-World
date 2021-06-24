@@ -26,6 +26,8 @@ The goal of this project is to create a simulated world in gazebo and write a pl
 * Cmake >= 4.1(mac, linux), 3.81(Windows)
 * gcc/g++ >= 5.4
 * Git
+* you can click [here](https://s3-us-west-1.amazonaws.com/udacity-robotics/Virtual+Machines/Lubuntu_071917/RoboVM_V2.1.0.zip) to download the virtual machine with all dependencies included. 
+* you will need [7-zip](http://www.7-zip.org/download.html) to extract the image and [VMware](http://www.vmware.com/) to run the virtual machine.
 
 ## Build Instructions
 1. Open terminal and run `sudo apt-get update && sudo apt-get upgrade -y`
