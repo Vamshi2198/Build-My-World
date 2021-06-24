@@ -35,3 +35,6 @@ The goal of this project is to create a simulated world in gazebo and write a pl
 5. Build the code with `cmake../ && make`
 6. export the plugin path with `export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:(path to build directory)`.
 7. cd into world directory and run `gazebo Myworld`.
+
+## Output 
+!(https://user-images.githubusercontent.com/85461865/123188661-691c0d00-d46a-11eb-954c-9758b737f4bd.jpg)
